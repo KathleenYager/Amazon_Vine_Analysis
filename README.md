@@ -13,7 +13,7 @@ The scope of this project only considers 5 star ratings. Analysts may support Vi
 
 Vine members may want to consider the information included in each review to determine if they receive additional insight from paid Vine reviews in comparison to information include in non-paid reviews.
 
-![SQL Vine Review Dataset]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_16_BigData\Amazon_Vine_Analysis\SQL_Vine_reviews.png")
+![SQL Vine Review Dataset](https://github.com/KathleenYager/Amazon_Vine_Analysis/blob/main/Resources/SQL_Vine_reviews.png)
 
 
 Members may also benefit from comparing all rated "helpful votes" made by Vine reviewers compared to "helpful votes" made by all non paid reviewers. This analysis may support Vine members in understanding benefits to paid membership. The image above shows the first 20 rows of a dataset that includes both Vine and Helpful vote columns. It suggests that not all Vine membership reviews are helpful reviews. With more exploration Vine members may discern that they can gather data about toys through free sources.  
