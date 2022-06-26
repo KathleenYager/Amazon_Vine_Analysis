@@ -2,6 +2,7 @@ Amazon Vine program members request a review specific to toy purchases that anal
 
 ## Results: 
 The dataset used for the analyses includes 65,871 reviews. Of the total count of reviews 28,453 received a 5 star rating. Of the total 5 star rated toys reviewed: 
+
 	- 1.5% (N=410) of 5 star rated reviews are Vine reviews. 
 	- 98.5%(N=28,043) of 5 star rated reviews are non-Vine reviews. 
 
